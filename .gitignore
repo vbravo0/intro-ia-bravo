@@ -1,0 +1,26 @@
+# Datos y archivos pesados
+data/
+*.csv
+*.tsv
+*.parquet
+*.zip
+*.tar.gz
+
+# Entornos virtuales
+.venv/
+env/
+venv/
+ENV/
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# IDEs y agentes
+AGENTS.md
+.vscode/
+.idea/
+.DS_Store
+
